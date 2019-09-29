@@ -12,3 +12,7 @@
 dt {
     margin-top: 1.25em;
 }
+
+#footer .social a {
+    color: #999;
+}
