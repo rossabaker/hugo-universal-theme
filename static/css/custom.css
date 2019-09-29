@@ -8,3 +8,7 @@
 .box-simple {
   min-height: 230px;
 }
+
+dt {
+    margin-top: 1.25em;
+}
