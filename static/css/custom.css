@@ -16,3 +16,8 @@ dt {
 #footer .social a {
     color: #999;
 }
+
+#footer .logo {
+    margin: 0 25%;
+    width: 50%;
+}
